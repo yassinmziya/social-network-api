@@ -1,4 +1,5 @@
 # social-network-api
-This is what would happen if Mark Zuckerberg were slightly less of a prodigy, and more of a Tanzanian Cornellian. Technologies employed:
+This is what would happen if Mark Zuckerberg was a Tanzanian/Cornellian with significantly fewer prodigal traits XD. 
+### Technologies I used:
   - Mongo, Express, NodeJS
   - Socket.io 
